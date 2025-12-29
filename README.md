@@ -12,3 +12,5 @@ I’m a student developer interested in backend systems, algorithms, and underst
 - Languages: Java, Python, C, JavaScript, SQL
 - Dev tools: Git & GitHub, Docker
 - Systems: Linux & Bash
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wychesterso&show_icons=true&theme=default)

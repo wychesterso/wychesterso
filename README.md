@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**wychesterso/wychesterso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student developer interested in backend systems, algorithms, and understanding how software works under the hood.
 
-Here are some ideas to get you started:
+### 🔭 Currently working on
+- Solving LeetCode problems in Java
+- Fixing display bugs in Mahjong game client
+- Learning MongoDB
+- Learning cloud platforms (AWS after GCP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & languages
+- Languages: Java, Python, C, JavaScript, SQL
+- Dev tools: Git & GitHub, Docker
+- Systems: Linux & Bash

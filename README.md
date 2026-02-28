@@ -3,13 +3,13 @@
 I’m a student developer interested in backend systems, algorithms, and understanding how software works under the hood.
 
 ### 🔭 Currently working on
-- Backend server for static GTFS data ingestion and querying
-- Solving LeetCode problems in Java
-- Fixing display bugs in Mahjong game client
-- Learning MongoDB
-- Learning cloud platforms (AWS after GCP)
+- Uni stuff
+- Fixing bugs in [SEQ Transit backend server](https://github.com/wychesterso/seq-transit-server)
+- Fixing display bugs in [Mahjong game client](https://github.com/wychesterso/mahjong-game)
+- Experimenting with cloud platforms
 
 ### 🛠️ Tools & languages
-- Languages: Java, Python, C, JavaScript, SQL
-- Dev tools: Git & GitHub, Docker
-- Systems: Linux & Bash
+- Languages: Java, Python, C, TypeScript (React), JavaScript
+- Frameworks: Spring Boot, Flask, Express
+- Databases: PostgreSQL, MySQL, Redis
+- Tools/Systems: Git, Docker, GCP, Linux, Windows

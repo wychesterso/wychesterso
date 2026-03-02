@@ -21,5 +21,5 @@ I’m a student developer interested in backend systems, algorithms, and underst
   - [Mobile App](https://github.com/wychesterso/seq-transit-app)
 - Sixteen Mahjong 🀄 - A full-featured multiplayer Mahjong app with a web server and desktop app frontend.
   - [Orchestration](https://github.com/wychesterso/mahjong-game)
-  - [Backend](https://github.com/wychesterso/mahjongbackend)
-  - [Frontend](https://github.com/wychesterso/mahjongfrontend)
+  - [Backend Game Server](https://github.com/wychesterso/mahjongbackend)
+  - [Frontend Client](https://github.com/wychesterso/mahjongfrontend)

@@ -2,12 +2,6 @@
 
 I’m a student developer interested in backend systems, algorithms, and understanding how software works under the hood.
 
-### 🔭 Currently working on
-- Uni stuff
-- Fixing bugs in SEQ Transit backend server
-- Investigating display bugs in Mahjong game client
-- Experimenting with cloud platforms
-
 ### 🛠️ Tools & languages
 - Languages: Java, Python, C, TypeScript (React), JavaScript
 - Frameworks: Spring Boot, Flask, Express
